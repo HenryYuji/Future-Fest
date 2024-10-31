@@ -63,3 +63,41 @@ footer ul {
 footer p {
     margin-top: 4%;
 }
+
+
+.title-section{
+    background-color: #8c2222;
+    color: #ffffff;
+    padding: 2px 5px ;
+    border-radius: 10px;
+    text-align: center;
+    margin: 20px;
+}
+.paragrafo{                                                                                                                                                   
+text-align: center;
+padding: 40px;
+width: 100%;
+
+}
+
+.fotinhos{
+    display: flex;
+    justify-content: flex-start;
+    padding: 30px;
+}
+
+.textos{
+    padding: 40px;
+}
+
+
+.titulos{
+    display: flex;
+    justify-content: center;
+}
+
+.inspiradores{
+display: flex;
+align-items: flex-start;
+justify-content: flex-start;
+}
