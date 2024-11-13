@@ -68,12 +68,12 @@ header {
     justify-content: flex-start;
     align-items: center;       
     padding: 20px;
-    background-image: url(imagens/fundo-de-papel-de-espaco-de-design-texturizado_53876-34033.png);   
+    background-color: bisque;   
     border-radius: 10px;
     margin-bottom: 30px;
-margin-left: 20px;
-margin-right: 20px;
-padding: 40px;
+    margin-left: 20px;
+     margin-right: 20px;
+    padding: 40px;
 }
 
 .foto img {
