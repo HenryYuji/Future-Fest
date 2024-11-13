@@ -59,3 +59,14 @@ footer ul {
     margin-left: 3%;
     margin-top: 2%;
 }
+.title-section {
+    background-color: #8c2222;
+    color: #ffffff;
+    padding: 2px 5px ;
+    border-radius: 10px;
+    text-align: center;
+    margin: 20px;
+}
+.about-container {
+    padding: 20px;
+}
