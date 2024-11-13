@@ -45,52 +45,57 @@ header {
     text-decoration: underline;
 }
 
-.title-section{
+.title-section {
     background-color: #8c2222;
     color: #ffffff;
-    padding: 2px 5px ;
+    padding: 2px 5px;
     border-radius: 10px;
     text-align: center;
     margin: 20px;
 }
-.paragrafo{                                                                                                                                                  
-text-align: center;
-padding: 40px;
-width: 100%;
- 
-}
-.fotinhos{
-    display: flex;
-    justify-content: flex-start;
-    padding: 30px;
-    border-radius: 30px;
-  
-}
- 
 
-.foto{
-
-
-    width: 200px;
-    height: 200px;
-
-}
- 
-.textos{
+.paragrafo {
+    text-align: center;
     padding: 40px;
+    width: 100%;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    margin-bottom: 40px;
 }
- 
- 
-.titulos{
+
+.inspirador {
+    display: flex;       
+    justify-content: flex-start;
+    align-items: center;       
+    padding: 20px;
+    background-color: #8c2222;   
+    border-radius: 10px;
+    margin-bottom: 30px;
+margin-left: 20px;
+margin-right: 20px;
+}
+
+.foto {
+    border-radius: 30px;
+    margin-right: 20px;         
+}
+
+.textos {
+    color: #ffffff;
+    background-color: #8c2222; 
+    padding: 20px;
+    border-radius: 10px;
+    flex: 1;                
+}
+
+.titulos {
     display: flex;
     justify-content: center;
+    margin-bottom: 10px;
 }
- 
-.inspiradores{
-display: flex;
-align-items: flex-start;
-justify-content: flex-start;
-padding: 50px;
+
+.titulos h2 {
+    color: #8c2222; 
 }
 
 footer {
@@ -107,4 +112,3 @@ footer ul {
     margin-left: 3%;
     margin-top: 2%;
 }
-
