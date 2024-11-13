@@ -68,21 +68,22 @@ header {
     justify-content: flex-start;
     align-items: center;       
     padding: 20px;
-    background-color: #8c2222;   
+    background-image: url(imagens/fundo-de-papel-de-espaco-de-design-texturizado_53876-34033.png);   
     border-radius: 10px;
     margin-bottom: 30px;
 margin-left: 20px;
 margin-right: 20px;
+padding: 40px;
 }
 
-.foto {
+.foto img {
     border-radius: 30px;
     margin-right: 20px;         
 }
 
 .textos {
     color: #ffffff;
-    background-color: #8c2222; 
+    background-color: #9e4444; 
     padding: 20px;
     border-radius: 10px;
     flex: 1;                
@@ -104,11 +105,17 @@ footer {
     background-color: #551414;
     padding: 10px 0;
     margin-top: 10px;
-    height: 200px;
+    height: 250px;
 }
 
-footer ul {
+footer p {
     text-align: left;
     margin-left: 3%;
     margin-top: 2%;
+}
+
+.minilogos{
+    display: flex;
+    width: 100px;
+    height: 50px;
 }
