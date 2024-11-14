@@ -117,26 +117,27 @@ footer ul {
     max-width: 200px;
 }
  
-/* Reduz a opacidade de todos os cards quando o container é hovered */
+
 .cards:hover .card {
     opacity: 0.5;
 }
  
-/* Retorna a opacidade original do card que está sendo hoverado */
+
 .cards .card:hover {
     opacity: 1;
 }
  
 .image-placeholder {
-    width: 749px;
-    height: 213px;
-    background-color: #ddd; /* Cor de fundo cinza para indicar o espaço reservado para a imagem */
-    border: 2px dashed #8c2222; /* Borda para destacar o espaço */
+   
+    height: 300px;
     display: flex;
-    align-items: center;
     justify-content: center;
-    margin: 20px auto; /* Centraliza o retângulo na página */
+    padding: 40px;
+  
 }
+
+
+
  
 .image-placeholder p {
     color: #8c2222;
