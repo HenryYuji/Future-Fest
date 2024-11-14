@@ -54,8 +54,8 @@ footer {
     height: 250px;
 }
 
-footer ul {
-    text-align: left;
+footer p {
+    text-align: center;
     margin-left: 3%;
     margin-top: 2%;
 }

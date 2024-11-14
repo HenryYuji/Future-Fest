@@ -54,7 +54,7 @@ footer {
     height: 250px;
 }
  
-footer ul {
+footer p {
     text-align: left;
     margin-left: 3%;
     margin-top: 2%;
@@ -95,7 +95,7 @@ footer ul {
     display: flex;
  
     align-items: center;
-    text-align: left;
+    text-align: center;
     transition: all 0.3s;
     padding: 40px;
 }
@@ -135,7 +135,10 @@ footer ul {
     padding: 40px;
   
 }
-
+.ultimo{
+    display: flex;
+    justify-content: center;
+}
 
 
  
