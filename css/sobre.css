@@ -70,3 +70,13 @@ footer ul {
 .about-container {
     padding: 20px;
 }
+
+.ultimo{
+    display: flex;
+    justify-content: center;
+}
+
+.loguinhos img{
+
+    height: 50px;
+}

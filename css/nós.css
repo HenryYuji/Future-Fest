@@ -150,3 +150,13 @@ footer ul {
     gap: 10px;  /* Espaçamento entre a imagem e a descrição */
     transition: all 0.3s;
 }
+
+.ultimo{
+    display: flex;
+    justify-content: center;
+}
+
+.loguinhos img{
+
+    height: 50px;
+}

@@ -142,3 +142,13 @@ footer ul {
 footer p {
     margin-top: 4%;
 }
+
+.ultimo{
+    display: flex;
+    justify-content: center;
+}
+
+.loguinhos img{
+
+    height: 50px;
+}

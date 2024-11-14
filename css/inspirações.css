@@ -119,3 +119,13 @@ footer p {
     width: 100px;
     height: 50px;
 }
+
+.ultimo{
+    display: flex;
+    justify-content: center;
+}
+
+.loguinhos img{
+
+    height: 50px;
+}

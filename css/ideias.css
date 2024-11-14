@@ -59,3 +59,13 @@ footer ul {
     margin-left: 3%;
     margin-top: 2%;
 }
+
+.ultimo{
+    display: flex;
+    justify-content: center;
+}
+
+.loguinhos img{
+
+    height: 50px;
+}
