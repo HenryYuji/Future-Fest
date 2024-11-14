@@ -45,22 +45,8 @@ header {
     text-decoration: underline;
 }
 
-.hero-section {
-    background-image: url('imagens/banner.jpg');
-    height: 100vh;
-    background-size: cover;
-    background-position: center;
-    color: #8c2222;
-    display: flex;
-    align-items: start;
-    justify-content: center;
-    text-align: center;
-}
 
-.hero-content h1 {
-    margin-top: 50px;
-    font-size: 2.6rem;
-}
+
 
 .hero-content p {
     font-size: 1.3rem;
@@ -180,5 +166,44 @@ footer p {
     text-align: left;
     margin-left: 3%;
     margin-top: 2%;
+}
+
+.hero-section {
+    background-image: url('imagens/banner.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    color: #8c2222;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start; 
+    text-align: center;
+    padding-top: 50px; 
+}
+
+
+.jaca {
+   
+    font-family: monospace;
+    white-space: nowrap;
+    width: 40ch;
+    overflow: hidden;
+    animation: anima 0.5s linear infinite, animaT 4s linear;
+    font-size: 2.6rem;
+    margin-bottom: 0; 
+    color: #551414; 
+}
+
+@keyframes anima {
+    50% {
+        border-right: transparent;
+    }
+}
+
+@keyframes animaT {
+    0% {
+        width: 0;
+    }
 }
 
