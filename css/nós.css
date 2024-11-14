@@ -162,6 +162,11 @@ footer ul {
     height: 50px;
 }
 
+.botao-ia {
+    position: fixed;       
+    bottom: 20px;          
+    right: 20px;               
+    width: 70px;              
     height: 70px;           
     border-radius: 50%;       
     background-color: #fff;;
