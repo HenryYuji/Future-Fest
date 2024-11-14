@@ -67,9 +67,7 @@ footer p {
     text-align: center;
     margin: 20px;
 }
-.about-container {
-    padding: 20px;
-}
+
 
 
 .ultimo{
@@ -99,7 +97,7 @@ footer p {
 }
 
 .botao-ia:hover {
-    background-color: red; 
+    background-color: rgb(201, 189, 189); 
 }
 
 
@@ -108,4 +106,10 @@ footer p {
     height: 50px;           
     object-fit: contain;      
 
+}
+.about-container {
+
+    text-align: center;
+    width: 100%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }

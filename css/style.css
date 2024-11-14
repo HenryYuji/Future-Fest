@@ -85,6 +85,7 @@ header {
     gap: 20px;
     flex-wrap: wrap;
     justify-content: center;
+    padding: 0px;
 }
 
 .text-div {
@@ -143,7 +144,7 @@ z
 }
 
 .botao-ia:hover {
-    background-color: red; 
+    background-color: rgb(201, 189, 189); 
 }
 
 
