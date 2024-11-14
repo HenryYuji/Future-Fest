@@ -46,7 +46,7 @@ header {
     text-decoration: underline;
 }
 
-/* Section Title */
+
 .title-section {
     background-color: #8c2222;
     color: #ffffff;
@@ -60,7 +60,7 @@ header {
     font-weight: bold;
 }
 
-/* Main Content Area */
+
 .about-container {
     display: flex;
     flex-direction: column;
@@ -81,7 +81,7 @@ header {
     transform: translateY(-7px);
 }
 
-/* Footer */
+
 footer {
     color: #ffffff;
     text-align: center;
@@ -110,7 +110,7 @@ footer .loguinhos img {
     margin-top: 20px;
 }
 
-/* Button IA */
+
 .botao-ia {
     position: fixed;
     bottom: 20px;
@@ -137,7 +137,6 @@ footer .loguinhos img {
     object-fit: contain;
 }
 
-/* Responsive Design */
 @media screen and (max-width: 768px) {
     .nav-links {
         flex-direction: column;
@@ -156,7 +155,6 @@ footer .loguinhos img {
     }
 }
 
-/* Estilos para as imagens entre os textos */
 .image-between-text {
     width: 800px;
     height: 350px;
